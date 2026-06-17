@@ -154,6 +154,3 @@
 
 </details>
 
-## References
-
-<a id="reference" href="https://github.com/tj-webdev/Hotel-Booking-Website-Assets"> Hotel-Booking-Website-Assets </a>
